@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- import angularjs -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+</head>
+
+<body>
+    <div ng-app="firstApp">
+        <!-- <div ng-controller="foodCtrl">
+            <input type="text" ng-model="newFood" />
+            <button ng-click="addFood()">Add</button>
+            <ul>
+                <li ng-repeat="food in foods">
+                    {{food}}
+                </li>
+            </ul>
+        </div> -->
+        <div ng-controller="stuCtrl">
+            <div>
+                <input type="text" ng-model="fname" />
+                <input type="text" ng-model="lname" />
+                <input type="text" ng-model="grade" />
+                <button ng-click="addStudent()">Add</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Grade</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="student in students">
+                        <td>{{student.fname}}</td>
+                        <td>{{student.lname}}</td>
+                        <td>{{student.grade}}</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="2">max</td>
+                        <td>{{max}}</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">min</td>
+                        <td>{{min}}</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">avg</td>
+                        <td>{{avg}}</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</body>
+<script src="./js/index.js"></script>
+
+</html>
