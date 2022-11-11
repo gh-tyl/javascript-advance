@@ -1,0 +1,702 @@
+[
+    {
+        "id": "75-604-6973",
+        "model": "A3",
+        "years": 2007,
+        "price": "17-224-6388",
+        "color": "Blue"
+    },
+    {
+        "id": "03-493-0585",
+        "model": "1500 Club Coupe",
+        "years": 1996,
+        "price": "23-083-0785",
+        "color": "Crimson"
+    },
+    {
+        "id": "60-263-5778",
+        "model": "B-Series",
+        "years": 2003,
+        "price": "06-797-8854",
+        "color": "Purple"
+    },
+    {
+        "id": "95-918-8098",
+        "model": "X5",
+        "years": 2001,
+        "price": "40-729-6807",
+        "color": "Aquamarine"
+    },
+    {
+        "id": "31-992-7322",
+        "model": "Scoupe",
+        "years": 1992,
+        "price": "21-495-7874",
+        "color": "Blue"
+    },
+    {
+        "id": "86-167-2861",
+        "model": "Special",
+        "years": 1962,
+        "price": "33-992-6140",
+        "color": "Khaki"
+    },
+    {
+        "id": "91-017-6676",
+        "model": "2500 Club Coupe",
+        "years": 1998,
+        "price": "03-579-1300",
+        "color": "Purple"
+    },
+    {
+        "id": "48-201-0299",
+        "model": "Ram 3500",
+        "years": 1996,
+        "price": "39-657-5761",
+        "color": "Blue"
+    },
+    {
+        "id": "59-863-8150",
+        "model": "Impala",
+        "years": 1996,
+        "price": "49-858-5456",
+        "color": "Yellow"
+    },
+    {
+        "id": "50-391-6646",
+        "model": "80",
+        "years": 1990,
+        "price": "40-295-4321",
+        "color": "Turquoise"
+    },
+    {
+        "id": "27-754-8028",
+        "model": "Sable",
+        "years": 1997,
+        "price": "05-262-7201",
+        "color": "Red"
+    },
+    {
+        "id": "85-444-3482",
+        "model": "Rio",
+        "years": 2008,
+        "price": "59-054-9811",
+        "color": "Yellow"
+    },
+    {
+        "id": "92-422-7635",
+        "model": "Grand Caravan",
+        "years": 1999,
+        "price": "04-031-8776",
+        "color": "Yellow"
+    },
+    {
+        "id": "10-792-5047",
+        "model": "A8",
+        "years": 1999,
+        "price": "95-699-1337",
+        "color": "Purple"
+    },
+    {
+        "id": "36-539-6719",
+        "model": "DeVille",
+        "years": 1993,
+        "price": "53-868-6741",
+        "color": "Goldenrod"
+    },
+    {
+        "id": "67-594-6673",
+        "model": "Sierra 3500",
+        "years": 2000,
+        "price": "70-258-3423",
+        "color": "Violet"
+    },
+    {
+        "id": "79-670-3817",
+        "model": "Bonneville",
+        "years": 1994,
+        "price": "26-638-7621",
+        "color": "Violet"
+    },
+    {
+        "id": "55-266-7336",
+        "model": "Expedition EL",
+        "years": 2012,
+        "price": "79-369-9391",
+        "color": "Fuscia"
+    },
+    {
+        "id": "54-166-8446",
+        "model": "Virage",
+        "years": 2012,
+        "price": "28-414-5642",
+        "color": "Green"
+    },
+    {
+        "id": "88-740-8218",
+        "model": "GTI",
+        "years": 2001,
+        "price": "08-730-7504",
+        "color": "Violet"
+    },
+    {
+        "id": "98-309-5859",
+        "model": "Wrangler",
+        "years": 1995,
+        "price": "07-306-4412",
+        "color": "Green"
+    },
+    {
+        "id": "64-616-1663",
+        "model": "Commander",
+        "years": 2010,
+        "price": "45-226-2323",
+        "color": "Green"
+    },
+    {
+        "id": "83-102-9792",
+        "model": "Rodeo",
+        "years": 1995,
+        "price": "22-791-6983",
+        "color": "Red"
+    },
+    {
+        "id": "99-542-4297",
+        "model": "Challenger",
+        "years": 2012,
+        "price": "58-515-0542",
+        "color": "Yellow"
+    },
+    {
+        "id": "25-958-9908",
+        "model": "CLS-Class",
+        "years": 2009,
+        "price": "67-048-2773",
+        "color": "Fuscia"
+    },
+    {
+        "id": "81-626-9908",
+        "model": "7 Series",
+        "years": 1998,
+        "price": "21-161-6644",
+        "color": "Indigo"
+    },
+    {
+        "id": "02-859-7467",
+        "model": "Routan",
+        "years": 2010,
+        "price": "86-958-9497",
+        "color": "Purple"
+    },
+    {
+        "id": "95-786-4224",
+        "model": "Ridgeline",
+        "years": 2012,
+        "price": "28-200-7661",
+        "color": "Aquamarine"
+    },
+    {
+        "id": "69-181-2394",
+        "model": "Ranger",
+        "years": 2006,
+        "price": "67-130-3250",
+        "color": "Blue"
+    },
+    {
+        "id": "26-001-5402",
+        "model": "Ram 2500 Club",
+        "years": 1999,
+        "price": "19-552-8531",
+        "color": "Aquamarine"
+    },
+    {
+        "id": "94-133-3436",
+        "model": "Eurovan",
+        "years": 1993,
+        "price": "10-829-2676",
+        "color": "Teal"
+    },
+    {
+        "id": "87-955-8435",
+        "model": "Fiesta",
+        "years": 2001,
+        "price": "75-327-6626",
+        "color": "Teal"
+    },
+    {
+        "id": "45-640-8688",
+        "model": "Ram 1500",
+        "years": 1999,
+        "price": "15-576-0624",
+        "color": "Yellow"
+    },
+    {
+        "id": "81-587-1480",
+        "model": "Maxima",
+        "years": 2003,
+        "price": "43-302-4832",
+        "color": "Teal"
+    },
+    {
+        "id": "09-217-5807",
+        "model": "Caprice",
+        "years": 1983,
+        "price": "34-555-5217",
+        "color": "Maroon"
+    },
+    {
+        "id": "58-748-0821",
+        "model": "HHR Panel",
+        "years": 2006,
+        "price": "99-559-3620",
+        "color": "Turquoise"
+    },
+    {
+        "id": "76-947-0706",
+        "model": "9-3",
+        "years": 2002,
+        "price": "91-340-9138",
+        "color": "Violet"
+    },
+    {
+        "id": "71-824-5733",
+        "model": "Grand Caravan",
+        "years": 2002,
+        "price": "74-750-4832",
+        "color": "Violet"
+    },
+    {
+        "id": "84-397-4079",
+        "model": "Mazda3",
+        "years": 2012,
+        "price": "47-545-0646",
+        "color": "Maroon"
+    },
+    {
+        "id": "19-822-3153",
+        "model": "5000CS Quattro",
+        "years": 1986,
+        "price": "91-968-8082",
+        "color": "Violet"
+    },
+    {
+        "id": "30-008-8701",
+        "model": "RS4",
+        "years": 2007,
+        "price": "75-638-6061",
+        "color": "Purple"
+    },
+    {
+        "id": "71-518-9841",
+        "model": "Silhouette",
+        "years": 1992,
+        "price": "39-924-6686",
+        "color": "Goldenrod"
+    },
+    {
+        "id": "89-338-1552",
+        "model": "Express 1500",
+        "years": 2000,
+        "price": "87-747-9938",
+        "color": "Pink"
+    },
+    {
+        "id": "72-323-7219",
+        "model": "MDX",
+        "years": 2004,
+        "price": "58-993-8884",
+        "color": "Indigo"
+    },
+    {
+        "id": "25-745-7625",
+        "model": "300",
+        "years": 2008,
+        "price": "03-691-6883",
+        "color": "Blue"
+    },
+    {
+        "id": "03-932-6240",
+        "model": "Z3",
+        "years": 2002,
+        "price": "39-858-8470",
+        "color": "Orange"
+    },
+    {
+        "id": "98-874-2770",
+        "model": "Explorer Sport Trac",
+        "years": 2007,
+        "price": "02-911-4229",
+        "color": "Pink"
+    },
+    {
+        "id": "48-759-5103",
+        "model": "Cougar",
+        "years": 1986,
+        "price": "79-664-8935",
+        "color": "Yellow"
+    },
+    {
+        "id": "47-009-1766",
+        "model": "Suburban 2500",
+        "years": 2000,
+        "price": "78-753-5702",
+        "color": "Indigo"
+    },
+    {
+        "id": "62-837-7409",
+        "model": "CLK-Class",
+        "years": 2002,
+        "price": "79-497-7422",
+        "color": "Green"
+    },
+    {
+        "id": "47-360-6486",
+        "model": "Explorer",
+        "years": 1997,
+        "price": "24-993-0396",
+        "color": "Violet"
+    },
+    {
+        "id": "12-588-6197",
+        "model": "B-Series Plus",
+        "years": 1995,
+        "price": "33-642-4284",
+        "color": "Orange"
+    },
+    {
+        "id": "57-442-1706",
+        "model": "Mazda5",
+        "years": 2009,
+        "price": "13-498-0775",
+        "color": "Turquoise"
+    },
+    {
+        "id": "99-614-0595",
+        "model": "A6",
+        "years": 2010,
+        "price": "21-418-4899",
+        "color": "Orange"
+    },
+    {
+        "id": "56-973-8583",
+        "model": "330",
+        "years": 2005,
+        "price": "06-095-1105",
+        "color": "Puce"
+    },
+    {
+        "id": "16-188-6722",
+        "model": "Lancer Evolution",
+        "years": 2002,
+        "price": "63-284-3509",
+        "color": "Maroon"
+    },
+    {
+        "id": "33-370-5131",
+        "model": "Escalade EXT",
+        "years": 2011,
+        "price": "70-380-3489",
+        "color": "Puce"
+    },
+    {
+        "id": "22-735-8451",
+        "model": "Esprit",
+        "years": 1999,
+        "price": "42-273-0301",
+        "color": "Orange"
+    },
+    {
+        "id": "90-731-4544",
+        "model": "TL",
+        "years": 1999,
+        "price": "52-024-1869",
+        "color": "Violet"
+    },
+    {
+        "id": "26-196-3105",
+        "model": "M5",
+        "years": 2009,
+        "price": "85-362-2028",
+        "color": "Blue"
+    },
+    {
+        "id": "90-624-8936",
+        "model": "57",
+        "years": 2005,
+        "price": "43-391-9981",
+        "color": "Blue"
+    },
+    {
+        "id": "65-381-4653",
+        "model": "Continental",
+        "years": 1987,
+        "price": "67-458-3440",
+        "color": "Yellow"
+    },
+    {
+        "id": "31-161-0758",
+        "model": "Explorer Sport Trac",
+        "years": 2010,
+        "price": "73-020-1506",
+        "color": "Yellow"
+    },
+    {
+        "id": "45-621-4573",
+        "model": "Mazdaspeed6",
+        "years": 2006,
+        "price": "72-126-9996",
+        "color": "Fuscia"
+    },
+    {
+        "id": "62-360-5406",
+        "model": "Town Car",
+        "years": 2007,
+        "price": "64-157-3685",
+        "color": "Khaki"
+    },
+    {
+        "id": "07-833-3079",
+        "model": "Trans Sport",
+        "years": 1996,
+        "price": "40-663-9978",
+        "color": "Teal"
+    },
+    {
+        "id": "10-484-4510",
+        "model": "TrailBlazer",
+        "years": 2008,
+        "price": "11-674-5677",
+        "color": "Blue"
+    },
+    {
+        "id": "79-412-3199",
+        "model": "Grand Am",
+        "years": 2001,
+        "price": "06-382-6357",
+        "color": "Puce"
+    },
+    {
+        "id": "99-761-0160",
+        "model": "Park Avenue",
+        "years": 1996,
+        "price": "12-033-7565",
+        "color": "Aquamarine"
+    },
+    {
+        "id": "42-887-3486",
+        "model": "Yukon XL 1500",
+        "years": 2007,
+        "price": "66-482-6960",
+        "color": "Pink"
+    },
+    {
+        "id": "40-297-9497",
+        "model": "F350",
+        "years": 2002,
+        "price": "53-713-0858",
+        "color": "Puce"
+    },
+    {
+        "id": "25-168-7054",
+        "model": "GTI",
+        "years": 1988,
+        "price": "53-823-5641",
+        "color": "Goldenrod"
+    },
+    {
+        "id": "68-625-0258",
+        "model": "DeVille",
+        "years": 1993,
+        "price": "16-704-0132",
+        "color": "Crimson"
+    },
+    {
+        "id": "10-469-4957",
+        "model": "Civic",
+        "years": 2011,
+        "price": "30-010-4528",
+        "color": "Maroon"
+    },
+    {
+        "id": "37-981-7662",
+        "model": "Escalade",
+        "years": 2002,
+        "price": "25-122-5570",
+        "color": "Khaki"
+    },
+    {
+        "id": "42-566-7333",
+        "model": "Continental GTC",
+        "years": 2007,
+        "price": "38-950-4954",
+        "color": "Turquoise"
+    },
+    {
+        "id": "54-478-3773",
+        "model": "Continental",
+        "years": 1987,
+        "price": "70-866-7911",
+        "color": "Blue"
+    },
+    {
+        "id": "33-814-2949",
+        "model": "Daytona",
+        "years": 1984,
+        "price": "24-587-6856",
+        "color": "Indigo"
+    },
+    {
+        "id": "22-416-2626",
+        "model": "Intrepid",
+        "years": 2000,
+        "price": "56-433-0785",
+        "color": "Pink"
+    },
+    {
+        "id": "09-459-4434",
+        "model": "Esprit",
+        "years": 1986,
+        "price": "69-821-7642",
+        "color": "Aquamarine"
+    },
+    {
+        "id": "75-664-8813",
+        "model": "Silverado 1500",
+        "years": 2004,
+        "price": "76-609-5622",
+        "color": "Turquoise"
+    },
+    {
+        "id": "65-525-0408",
+        "model": "Courier",
+        "years": 1988,
+        "price": "33-146-9265",
+        "color": "Goldenrod"
+    },
+    {
+        "id": "53-391-0317",
+        "model": "Lancer Evolution",
+        "years": 2006,
+        "price": "90-122-3362",
+        "color": "Red"
+    },
+    {
+        "id": "08-823-4196",
+        "model": "Expedition EL",
+        "years": 2012,
+        "price": "99-876-7618",
+        "color": "Mauv"
+    },
+    {
+        "id": "54-116-8601",
+        "model": "Express 3500",
+        "years": 2006,
+        "price": "24-418-8585",
+        "color": "Purple"
+    },
+    {
+        "id": "91-051-8150",
+        "model": "Concorde",
+        "years": 1999,
+        "price": "10-271-4411",
+        "color": "Khaki"
+    },
+    {
+        "id": "00-583-4061",
+        "model": "Impala",
+        "years": 2007,
+        "price": "74-164-3887",
+        "color": "Khaki"
+    },
+    {
+        "id": "45-396-7079",
+        "model": "NSX",
+        "years": 2001,
+        "price": "17-306-5442",
+        "color": "Indigo"
+    },
+    {
+        "id": "78-675-3381",
+        "model": "Terraza",
+        "years": 2005,
+        "price": "47-315-2592",
+        "color": "Purple"
+    },
+    {
+        "id": "45-075-3145",
+        "model": "Sierra 3500",
+        "years": 2005,
+        "price": "40-185-4635",
+        "color": "Crimson"
+    },
+    {
+        "id": "48-406-3394",
+        "model": "Durango",
+        "years": 2002,
+        "price": "24-460-8031",
+        "color": "Red"
+    },
+    {
+        "id": "58-141-2614",
+        "model": "STS",
+        "years": 2008,
+        "price": "31-361-7778",
+        "color": "Puce"
+    },
+    {
+        "id": "24-642-7863",
+        "model": "EX",
+        "years": 2012,
+        "price": "21-488-2965",
+        "color": "Red"
+    },
+    {
+        "id": "07-389-6787",
+        "model": "Century",
+        "years": 2000,
+        "price": "78-731-5181",
+        "color": "Blue"
+    },
+    {
+        "id": "13-172-8488",
+        "model": "GS",
+        "years": 2008,
+        "price": "36-574-2024",
+        "color": "Pink"
+    },
+    {
+        "id": "56-546-8874",
+        "model": "MPV",
+        "years": 1992,
+        "price": "75-752-7290",
+        "color": "Yellow"
+    },
+    {
+        "id": "31-634-3404",
+        "model": "Diamante",
+        "years": 1993,
+        "price": "86-083-8242",
+        "color": "Blue"
+    },
+    {
+        "id": "81-306-2716",
+        "model": "Durango",
+        "years": 1998,
+        "price": "50-853-8541",
+        "color": "Red"
+    },
+    {
+        "id": "58-819-4917",
+        "model": "Corvette",
+        "years": 2001,
+        "price": "39-481-0635",
+        "color": "Puce"
+    },
+    {
+        "id": "16-525-2065",
+        "model": "Expedition",
+        "years": 2003,
+        "price": "10-054-4396",
+        "color": "Pink"
+    }
+]
