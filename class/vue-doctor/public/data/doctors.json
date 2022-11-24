@@ -1,0 +1,92 @@
+[
+    {
+        "doc_id": 2001,
+        "first_name": "Hadrian",
+        "last_name": "Beaty",
+        "specialty": "Dermatology",
+        "email": "hbeaty0@about.me",
+        "password": "pppYLIBhsU",
+        "phone": "(502) 9147573"
+    },
+    {
+        "doc_id": 2002,
+        "first_name": "Darelle",
+        "last_name": "Braidon",
+        "specialty": "Internal medicine",
+        "email": "dbraidon1@harvard.edu",
+        "password": "2g7HE2Y6",
+        "phone": "(355) 5113878"
+    },
+    {
+        "doc_id": 2003,
+        "first_name": "Alex",
+        "last_name": "Sambrok",
+        "specialty": "Ophthalmology",
+        "email": "asambrok2@freewebs.com",
+        "password": "6QeFUxsRWx8",
+        "phone": "(953) 8262910"
+    },
+    {
+        "doc_id": 2004,
+        "first_name": "Antonetta",
+        "last_name": "Tegeller",
+        "specialty": "Urology",
+        "email": "ategeller3@house.gov",
+        "password": "0em1MF5FP",
+        "phone": "(784) 5577357"
+    },
+    {
+        "doc_id": 2005,
+        "first_name": "Boothe",
+        "last_name": "Featherstone",
+        "specialty": "Radiation oncology",
+        "email": "bfeatherstone4@mlb.com",
+        "password": "fDI0DyCceOS",
+        "phone": "(462) 1881941"
+    },
+    {
+        "doc_id": 2006,
+        "first_name": "Kalle",
+        "last_name": "Mumbey",
+        "specialty": "Pathology",
+        "email": "kmumbey5@angelfire.com",
+        "password": "V0ExRby",
+        "phone": "(156) 9246550"
+    },
+    {
+        "doc_id": 2007,
+        "first_name": "Waylon",
+        "last_name": "Brotherick",
+        "specialty": "Neurology",
+        "email": "wbrotherick6@tripadvisor.com",
+        "password": "qqubFSM",
+        "phone": "(447) 9161286"
+    },
+    {
+        "doc_id": 2008,
+        "first_name": "Britni",
+        "last_name": "Ainslee",
+        "specialty": "Anesthesiology",
+        "email": "bainslee7@archive.org",
+        "password": "Y8TkP1APO",
+        "phone": "(752) 8412099"
+    },
+    {
+        "doc_id": 2009,
+        "first_name": "Donella",
+        "last_name": "Rubinfeld",
+        "specialty": "Allergy and immunology",
+        "email": "drubinfeld8@google.es",
+        "password": "d0B4lWfDwtl",
+        "phone": "(447) 9008593"
+    },
+    {
+        "doc_id": 2010,
+        "first_name": "Jeremy",
+        "last_name": "Hullin",
+        "specialty": "Pediatrics",
+        "email": "jhullin9@miitbeian.gov.cn",
+        "password": "QtStNgL4wj",
+        "phone": "(348) 1780912"
+    }
+]

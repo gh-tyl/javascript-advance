@@ -1,0 +1,182 @@
+[
+    {
+        "drug_id": 11,
+        "drugname": "ETHYL ALCOHOL",
+        "drugbrand": "Papermates, Inc. dba Noteworthy",
+        "price": 176.95
+    },
+    {
+        "drug_id": 12,
+        "drugname": "Agaricus musc., Arsenicum alb., Aur. met., Berber. aqui., Caladium seguinum, Candida albicans, Cantharis, Conium, Graphites, Helonias dioica, Hydrastis, Kali carb., Kreosotum, Lycopodium, Merc. viv., Murex purpurea, Nat. mur., Nitricum ac., Pulsatilla, Rhus toxicodendron, Sepia, Sulphur, Tarentula hispana, Thuja occ., Zinc. met., Apis mel., Hamamelis",
+        "drugbrand": "Newton Laboratories, Inc.",
+        "price": 244.25
+    },
+    {
+        "drug_id": 13,
+        "drugname": "Dandelion",
+        "drugbrand": "Nelco Laboratories, Inc.",
+        "price": 396.09
+    },
+    {
+        "drug_id": 14,
+        "drugname": "topotecan hydrochloride",
+        "drugbrand": "GlaxoSmithKline LLC",
+        "price": 288.15
+    },
+    {
+        "drug_id": 15,
+        "drugname": "SULFACETAMIDE SODIUM, SULFUR",
+        "drugbrand": "Brava Pharmaceuticals, LLC",
+        "price": 304.04
+    },
+    {
+        "drug_id": 16,
+        "drugname": "KALMIA LATIFOLIA LEAF",
+        "drugbrand": "Natural Health Supply",
+        "price": 177.95
+    },
+    {
+        "drug_id": 17,
+        "drugname": "menthol, methyl salicylate",
+        "drugbrand": "Fabrication Enterprises",
+        "price": 58.54
+    },
+    {
+        "drug_id": 18,
+        "drugname": "Not applicable",
+        "drugbrand": "Alternative Pharmacy",
+        "price": 442.04
+    },
+    {
+        "drug_id": 19,
+        "drugname": "SULFUR, THUJA OCCIDENTALIS LEAFY TWIG, VACCINIA VIRUS STRAIN NEW YORK CITY BOARD, GONORRHEAL URETHRAL SECRETION HUMAN,SODIUM CHLORIDE, NERIUM OLEANDER LEAF,CICUTA VIROSA ROOT,",
+        "drugbrand": "Heel Inc",
+        "price": 225.41
+    },
+    {
+        "drug_id": 20,
+        "drugname": "Pseudoephedrine Hydrochloride",
+        "drugbrand": "L Perrigo Company",
+        "price": 351.47
+    },
+    {
+        "drug_id": 21,
+        "drugname": "zaleplon",
+        "drugbrand": "Pfizer Laboratories Div Pfizer Inc",
+        "price": 66.77
+    },
+    {
+        "drug_id": 22,
+        "drugname": "Cultivated Wheat",
+        "drugbrand": "Nelco Laboratories, Inc.",
+        "price": 137.05
+    },
+    {
+        "drug_id": 23,
+        "drugname": "Clomipramine Hydrochloride",
+        "drugbrand": "Bryant Ranch Prepack",
+        "price": 346.82
+    },
+    {
+        "drug_id": 24,
+        "drugname": "Fluconazole",
+        "drugbrand": "Claris Lifesciences Inc.",
+        "price": 42.95
+    },
+    {
+        "drug_id": 25,
+        "drugname": "Venlafaxine hydrochloride",
+        "drugbrand": "BTA Pharmaceuticals",
+        "price": 474.56
+    },
+    {
+        "drug_id": 26,
+        "drugname": "levothyroxine sodium",
+        "drugbrand": "Mylan Pharmaceuticals Inc.",
+        "price": 268.38
+    },
+    {
+        "drug_id": 27,
+        "drugname": "Diazepam",
+        "drugbrand": "Roxane Laboratories, Inc",
+        "price": 379.33
+    },
+    {
+        "drug_id": 28,
+        "drugname": "hydrocortisone",
+        "drugbrand": "Greenstone LLC",
+        "price": 380.06
+    },
+    {
+        "drug_id": 29,
+        "drugname": "Phenylephrine Hydrochloride",
+        "drugbrand": "Hannaford Brothers Company",
+        "price": 277.18
+    },
+    {
+        "drug_id": 30,
+        "drugname": "Quetiapine Fumarate",
+        "drugbrand": "Preferred Pharmaceuticals, Inc.",
+        "price": 402.52
+    },
+    {
+        "drug_id": 31,
+        "drugname": "Octinoxate",
+        "drugbrand": "Elizabeth Arden, Inc",
+        "price": 260.9
+    },
+    {
+        "drug_id": 32,
+        "drugname": "Omeprazole",
+        "drugbrand": "Dolgencorp, LLC",
+        "price": 109.65
+    },
+    {
+        "drug_id": 33,
+        "drugname": "Paroxetine",
+        "drugbrand": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "price": 178.3
+    },
+    {
+        "drug_id": 34,
+        "drugname": "TITANIUM DIOXIDE",
+        "drugbrand": "THEFACESHOP CO., LTD.",
+        "price": 461.12
+    },
+    {
+        "drug_id": 35,
+        "drugname": "NICOTINE",
+        "drugbrand": "Novartis Consumer Health",
+        "price": 356.66
+    },
+    {
+        "drug_id": 36,
+        "drugname": "octreotide acetate",
+        "drugbrand": "Novartis Pharmaceuticals Corporation",
+        "price": 449.49
+    },
+    {
+        "drug_id": 37,
+        "drugname": "memantine hydrochloride",
+        "drugbrand": "Forest Laboratories, Inc.",
+        "price": 496.18
+    },
+    {
+        "drug_id": 38,
+        "drugname": "Phenylephrine hydrochloride",
+        "drugbrand": "Walgreen Company",
+        "price": 305.65
+    },
+    {
+        "drug_id": 39,
+        "drugname": "miconazole nitrate",
+        "drugbrand": "Actavis Mid Atlantic LLC",
+        "price": 419.19
+    },
+    {
+        "drug_id": 40,
+        "drugname": "Alteplase",
+        "drugbrand": "Genentech, Inc.",
+        "price": 338.76
+    }
+]
